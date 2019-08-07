@@ -1,2 +1,5 @@
 # imageGride
-React Native
+React Native 
+MOBX
+Native Base
+ReactNavigation
